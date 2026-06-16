@@ -8,6 +8,6 @@
 
 4)**Categorical variables**:  store_type, region , month, holiday_flag, store_id
 
-5)**Variables that may need cleaning or transformation**: store_type needs transformation to be used in regression
+5)**Variables that may need cleaning or transformation**: store_type,region needs transformation to be used in regression
 
 6)**Variables that may not be useful for regression**: store_id, month( if seasionality is not concerned)
