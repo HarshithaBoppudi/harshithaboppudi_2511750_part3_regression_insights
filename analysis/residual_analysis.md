@@ -17,17 +17,11 @@ model over-predicted).
 ## Top 5 Largest POSITIVE Residuals (model under-predicts)
 
 | Rank | Store ID | Month | Region | Store Type | Actual Sales | Predicted Sales | Residual |
-#
 |---|---|---|---|---|---|---|---|
-#
 | 1 | STR-1030 | 2025-02 | West | Residential | 820,519 | 714,620 | +105,899 |
-#
 | 2 | STR-1073 | 2025-03 | East | Residential | 813,317 | 713,693 | +99,623 |
-#
 | 3 | STR-1032 | 2025-01 | South | High Street | 914,544 | 815,773 | +98,771 |
-#
 | 4 | STR-1050 | 2025-04 | North | Residential | 735,787 | 638,540 | +97,246 |
-#
 | 5 | STR-1028 | 2025-04 | East | Mall | 713,611 | 618,466 | +95,145 |
 
 ## Top 5 Largest NEGATIVE Residuals (model over-predicts)
